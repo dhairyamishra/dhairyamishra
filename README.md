@@ -61,7 +61,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<!-- ---
 
 ## 📑 Table of Contents
 
@@ -93,7 +93,7 @@
 - **[DecompositionAI](https://github.com/dhairyamishra/DECOMPOSITION-AI)** — Graph-based GPT research assistant built with React, TypeScript, and RAG architecture
 - **[MC Multiplayer Data](https://github.com/georgysavva/mc-multiplayer-data)** — Collaborative multiplayer data analysis and visualization platform
 
----
+--- -->
 
 ## 📊 GitHub Statistics
 
