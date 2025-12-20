@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="centre">
+<td width="50%" valign="center">
 
 <!-- Top Left: GitHub Stats + Streak Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
@@ -22,7 +22,7 @@
 <!-- <img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" /> -->
 
 </td>
-<td width="50%" valign="centre">
+<td width="50%" valign="center">
 
 <!-- Top Right: Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
