@@ -1,52 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Profile banner" src="assets/banner-light.svg">
-</picture>
-
-<!-- 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhairyamishra&color=blueviolet)
-
-</div>
--->
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📑 Table of Contents
-
-- [👋 About Me](#-about-me)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Statistics](#-github-statistics)
-- [🔥 Recent Activity](#-recent-activity)
-- [💬 Let's Connect!](#-lets-connect)
-
----
-
-## 👋 About Me
-
-I'm a **Machine Learning Engineer** and **Full-Stack Developer** currently pursuing my **Master's in Computer Science at NYU Courant** with a focus on **Artificial Intelligence**. I'm passionate about building scalable ML systems, cloud infrastructure, and contributing to cutting-edge AI research.
-
-🔬 **Currently:** Contributing to AI research at NYU on **Project Solaris** — a multi-agent dataset and evaluation framework  
-🎓 **Education:** MSCS @ NYU Courant Institute of Mathematical Sciences  
-💡 **Interests:** Deep Learning, MLOps, Cloud Architecture, Full-Stack Development  
-🌱 **Learning:** Advanced transformer architectures, distributed training, and production ML systems
-
-📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/dhairya-mishra) • [Website](https://dhairyamishra.wordpress.com)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -82,6 +34,41 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** currently pursu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<!-- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Profile banner" src="assets/banner-light.svg">
+</picture>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhairyamishra&color=blueviolet)
+
+</div>
+-->
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📑 Table of Contents
+
+- [🚀 Featured Projects](#-featured-projects)
+- [📊 GitHub Statistics](#-github-statistics)
+- [🔥 Recent Activity](#-recent-activity)
+- [💬 Let's Connect!](#-lets-connect)
 
 ---
 
@@ -132,20 +119,20 @@ TODO: Reactivate this section once WakaTime is set up and tracking activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
--->
 
 ---
 
-## 🔥 Recent Activity
+
+<!-- ## 🔥 Recent Activity -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#6](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
+<!-- 1. ❌ Merged PR [#6](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 2. 💪 Opened PR [#6](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 3. ❌ Merged PR [#4](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 4. ❌ Merged PR [#5](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 5. 💪 Opened PR [#5](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 6. 💪 Opened PR [#4](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
-7. ❌ Merged PR [#3](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
+7. ❌ Merged PR [#3](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP) -->
 <!--END_SECTION:activity-->
 
 ---
