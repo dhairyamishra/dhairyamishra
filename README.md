@@ -1,11 +1,3 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&lines=Python+%7C+TypeScript+%7C+JavaScript+%7C+Java+%7C+C%2B%2B+%7C+SQL;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+Terraform;PyTorch+%7C+TensorFlow+%7C+HuggingFace+%7C+OpenCV;FastAPI+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <picture>
@@ -26,7 +18,7 @@
 <img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="centre">
 
 <!-- Top Right: Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,4 +74,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-mishra)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://dhairyamishra.wordpress.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhairyamishra)
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&lines=Python+%7C+TypeScript+%7C+JavaScript+%7C+Java+%7C+C%2B%2B+%7C+SQL;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+Terraform;PyTorch+%7C+TensorFlow+%7C+HuggingFace+%7C+OpenCV;FastAPI+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
+
 </div>
