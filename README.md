@@ -57,7 +57,7 @@
 <td width="50%" valign="center">
 
 <!-- Bottom Left: GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 <td width="50%" valign="center">
