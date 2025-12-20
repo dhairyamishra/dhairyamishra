@@ -108,8 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
----
-
+<!-- --- -->
 <!-- 
 ## 📈 Coding Activity
 
@@ -122,9 +121,7 @@ TODO: Reactivate this section once WakaTime is set up and tracking activity
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
-
-
+<!-- --- -->
 <!-- ## 🔥 Recent Activity -->
 
 <!--START_SECTION:activity-->
