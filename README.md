@@ -5,10 +5,22 @@
 </picture>
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=dhairyamishra&color=blueviolet)
 
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [👋 About Me](#-about-me)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [📊 GitHub Statistics](#-github-statistics)
+- [🔥 Recent Activity](#-recent-activity)
+- [🐍 Contribution Graph](#-contribution-graph)
+- [💬 Let's Connect!](#-lets-connect)
 
 ---
 
@@ -21,7 +33,7 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** currently pursu
 💡 **Interests:** Deep Learning, MLOps, Cloud Architecture, Full-Stack Development  
 🌱 **Learning:** Advanced transformer architectures, distributed training, and production ML systems
 
-📫 **Get in touch:** [Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Website](https://yourwebsite.com)
+📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/dhairya-mishra) • [Website](https://dhairyamishra.wordpress.com)
 
 ---
 
@@ -141,9 +153,9 @@ TODO: Reactivate this section once WakaTime is set up and tracking activity
 
 ### 💬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-mishra)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://dhairyamishra.wordpress.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhairyamishra)
 
 ---
 
