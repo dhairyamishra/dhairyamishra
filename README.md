@@ -12,6 +12,16 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📑 Table of Contents
 
 - [👋 About Me](#-about-me)
@@ -19,7 +29,6 @@
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Statistics](#-github-statistics)
 - [🔥 Recent Activity](#-recent-activity)
-- [🐍 Contribution Graph](#-contribution-graph)
 - [💬 Let's Connect!](#-lets-connect)
 
 ---
@@ -136,16 +145,6 @@ TODO: Reactivate this section once WakaTime is set up and tracking activity
 6. 💪 Opened PR [#4](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 7. ❌ Merged PR [#3](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 <!--END_SECTION:activity-->
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
