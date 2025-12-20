@@ -87,7 +87,7 @@ git push origin main
 7. Click **"Add secret"**
 
 ### **Step 4: Update Personal Links** (1 min)
-Edit `README.md` lines 24, 129-131:
+Edit `README.md` lines 25, 129-131:
 - Replace `your.email@example.com` with your email
 - Replace `yourprofile` with your LinkedIn username
 - Replace `yourwebsite.com` with your website
