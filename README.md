@@ -56,8 +56,8 @@
 <tr>
 <td width="50%" valign="center">
 
-<!-- Bottom Left: Activity Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamishra&theme=tokyonight" width="100%" />
+<!-- Bottom Left: GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" />
 
 </td>
 <td width="50%" valign="center">
