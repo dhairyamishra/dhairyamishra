@@ -4,11 +4,13 @@
   <img alt="Profile banner" src="assets/banner-light.svg">
 </picture>
 
+<!-- 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhairyamishra&color=blueviolet)
 
 </div>
+-->
 
 ---
 
