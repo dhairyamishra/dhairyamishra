@@ -7,40 +7,50 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
 
+---
 
-<table>
-<tr>
-<td width="50%" valign="center">
+### 📊 GitHub Stats
 
-<!-- Top Left: GitHub Stats (Maximum Detail) -->
 <img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=21&card_width=495&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&rank_icon=github&border_radius=10" width="100%" />
 
-<!-- <img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" /> -->
+---
 
-</td>
-<td width="50%" valign="center">
+### 🔥 Contribution Activity
 
-<!-- Top Right: Tech Stack Badges -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+---
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=3&card_width=495" width="100%" />
+
+---
+
+### 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -49,23 +59,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="center">
-
-<!-- Bottom Left: Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</td>
-<td width="50%" valign="center">
-
-<!-- Bottom Right: Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=3&card_width=495" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <!-- --- -->
 
