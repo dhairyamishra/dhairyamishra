@@ -2,11 +2,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=6&layout=compact" width="100%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
@@ -24,13 +20,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </div>
 
