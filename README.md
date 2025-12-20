@@ -19,7 +19,7 @@
 <!-- Top Left: GitHub Stats + Streak Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 <td width="50%" valign="centre">
@@ -57,7 +57,7 @@
 <td width="50%" valign="top">
 
 <!-- Bottom Left: Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&height=400" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamishra&theme=tokyonight" width="100%" />
 
 </td>
 <td width="50%" valign="top">
