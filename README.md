@@ -74,6 +74,8 @@
 <!-- ## 🔥 Recent Activity -->
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#6](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
+2. 💪 Opened PR [#6](undefined) in [dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP)
 <!--END_SECTION:activity-->
 
 ---
