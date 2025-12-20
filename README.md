@@ -16,8 +16,8 @@
 <tr>
 <td width="50%" valign="center">
 
-<!-- Top Left: GitHub Stats + Streak Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
+<!-- Top Left: GitHub Stats (Maximum Detail) -->
+<img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=21&card_width=495&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&rank_icon=github&border_radius=10" width="100%" />
 
 <!-- <img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" /> -->
 
