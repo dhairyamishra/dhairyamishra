@@ -11,6 +11,20 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=grade&show_owner=true)
 
+---
+
+### ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 21 June 2025 - To: 20 December 2025
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 </div>
 
 ---
