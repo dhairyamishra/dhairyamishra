@@ -19,7 +19,7 @@
 <!-- Top Left: GitHub Stats + Streak Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" />
 
 </td>
 <td width="50%" valign="centre">
