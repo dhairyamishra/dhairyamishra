@@ -98,17 +98,18 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** currently pursu
 
 ---
 
+<!-- 
 ## 📈 Coding Activity
 
+TODO: Reactivate this section once WakaTime is set up and tracking activity
+- Set up WakaTime account at https://wakatime.com
+- Add WAKATIME_API_KEY to GitHub secrets
+- Install WakaTime plugin in IDE
+- Uncomment this section and the wakatime.yml workflow
+
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 December 2025 - To: 20 December 2025
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+-->
 
 ---
 
