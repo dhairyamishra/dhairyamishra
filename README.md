@@ -14,12 +14,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="centre">
 
 <!-- Top Left: GitHub Stats + Streak Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" />
+<!-- <img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true&card_width=495" width="100%" /> -->
 
 </td>
 <td width="50%" valign="centre">
@@ -54,13 +54,13 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 
 <!-- Bottom Left: Activity Graph -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamishra&theme=tokyonight" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 
 <!-- Bottom Right: Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=3&card_width=495" width="100%" />
