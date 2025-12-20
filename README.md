@@ -56,8 +56,8 @@
 <tr>
 <td width="50%" valign="center">
 
-<!-- Bottom Left: GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
+<!-- Bottom Left: Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </td>
 <td width="50%" valign="center">
