@@ -16,6 +16,13 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 June 2025 - To: 20 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </div>
