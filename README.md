@@ -20,15 +20,15 @@
 <tr>
 <td width="50%" valign="top">
 
+<!-- Top Left: GitHub Stats + Streak Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
 
 <img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" width="100%" />
-
 </td>
 <td width="50%" valign="top">
 
+<!-- Top Right: Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,6 +54,20 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<!-- Bottom Left: Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&height=400" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Bottom Right: Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=3&card_width=495" width="100%" />
 
 </td>
 </tr>
