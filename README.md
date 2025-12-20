@@ -101,6 +101,13 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** currently pursu
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 December 2025 - To: 20 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
