@@ -12,11 +12,11 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" height="200" />
+<img src="https://streak-stats.demolab.com?user=dhairyamishra&theme=tokyonight&hide_border=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamishra&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" width="100%" />
 
 </td>
 <td width="50%" valign="top">
