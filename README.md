@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=grade&show_owner=true&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhairyamishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
 
 </div>
 
