@@ -169,6 +169,15 @@ Visit [shields.io](https://shields.io) and [simpleicons.org](https://simpleicons
 3. **Snake Needs Output Branch:** Created automatically on first run
 4. **Caching:** Stats update on their own schedule (can't force refresh)
 
+## ✅ Recent Fixes
+
+**Issue #11 - Recent Activity Workflow Error (Fixed)**
+- **Problem:** `Unable to resolve action readme-workflows/recent-activity@v2.4.2, unable to find version v2.4.2`
+- **Root Cause:** Version `v2.4.2` doesn't exist in the repository
+- **Solution:** Updated to the correct latest version `v2.4.1`
+- **Files Updated:** `.github/workflows/activity.yml`
+- **Status:** ✅ Fixed and ready to deploy
+
 ---
 
 ## 📊 Metrics Overview
