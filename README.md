@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-mishra/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhairyamishra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dpm8739@nyu.edu)
 
 </div>
 
@@ -17,21 +18,36 @@
 
 ### About
 
-ML Engineer and Full-Stack Developer pursuing MSCS at NYU Courant. Focused on applied AI research, scalable cloud infrastructure, and building reliable systems end-to-end.
+Software Engineer with 4+ years of experience building AI/ML production systems, full-stack services, and data pipelines. Focused on computer vision, NLP, cloud automation, and reliability-oriented orchestration. Currently pursuing MSCS (AI) at NYU Courant.
+
+---
+
+### Notable Projects
+
+| Project | Org | Description |
+|---------|-----|-------------|
+| **Solaris** | NYU Courant (ICML 2026) | Multi-agent video world model research for action-conditioned Video-DiT under partial observability in Minecraft |
+| **MRI Brain Tumor Detection** | NYU | Multimodal MRI classification and segmentation model achieving 91.3% accuracy and 97.1% sensitivity on BraTS |
+| **Cloud NLP Classification** | Personal | Production multi-model text classification service on GCP with DistilBERT at 96.57% accuracy |
+| **PICO-LLM Research Pipeline** | NYU | Modular LLM training pipeline for K-Gram MLP, LSTM, and KV-cache Transformer architectures |
+| **Decomposition AI** | Personal | LLM-assisted knowledge mapping app converting prompts into reusable idea graphs via GPT-driven decomposition |
+| **Testaro** | CVS Health (ACM ASSETS 2023) | Web accessibility testing tool with multi-tool compliance evaluation, presented at the 25th ACM SIGACCESS |
 
 ---
 
 ### Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL, C++
+**Languages:** Python, JavaScript/TypeScript, Java, C++, SQL, HTML/CSS
 
-**ML / AI:** PyTorch, TensorFlow, Hugging Face, scikit-learn, LangChain
+**ML / AI:** PyTorch, TensorFlow, Hugging Face, scikit-learn, OpenCV, wandb, ChromaDB, FAISS
 
-**Web:** React, Next.js, Node.js, FastAPI, Express
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), GCP (GKE), Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, ArgoCD
 
-**Cloud & Infra:** AWS, GCP, Docker, Kubernetes, Terraform
+**Frameworks:** FastAPI, React, Streamlit, Vite, TailwindCSS, Node.js
 
-**Data:** PostgreSQL, MongoDB, Redis, Spark
+**Data & Storage:** PostgreSQL, MongoDB, MySQL, Pandas, NumPy, Spark, HDFS
+
+**Observability & Testing:** OpenTelemetry, Grafana, Prometheus, Playwright, pytest
 
 ---
 
