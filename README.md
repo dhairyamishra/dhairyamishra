@@ -50,6 +50,16 @@ Software Engineer with 4+ years of experience building AI/ML production systems,
 
 ---
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -65,14 +75,4 @@ Software Engineer with 4+ years of experience building AI/ML production systems,
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamishra&hide_border=true" width="49%">
 </picture>
 
-</div>
-
----
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 </div>
