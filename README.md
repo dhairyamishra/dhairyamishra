@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/master/assets/banner-dark.svg">
@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=githubpages&logoColor=white)](https://dhairyamishra.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-mishra/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhairyamishra)
-[![Email](https://img.shields.io/badge/Email-374151?style=flat&logo=gmail&logoColor=white)](mailto:dhairyapratapmishra@gmail.com)
 
 </div>
 
@@ -67,4 +66,3 @@ I am open to AI engineering, ML systems, applied research, and full-stack AI pro
 - Portfolio: [dhairyamishra.github.io](https://dhairyamishra.github.io/)
 - LinkedIn: [linkedin.com/in/dhairya-mishra](https://www.linkedin.com/in/dhairya-mishra/)
 - GitHub: [github.com/dhairyamishra](https://github.com/dhairyamishra)
-- Email: [dhairyapratapmishra@gmail.com](mailto:dhairyapratapmishra@gmail.com)
