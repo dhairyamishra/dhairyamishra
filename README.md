@@ -66,3 +66,20 @@ I am open to AI engineering, ML systems, applied research, and full-stack AI pro
 - Portfolio: [dhairyamishra.github.io](https://dhairyamishra.github.io/)
 - LinkedIn: [linkedin.com/in/dhairya-mishra](https://www.linkedin.com/in/dhairya-mishra/)
 - GitHub: [github.com/dhairyamishra](https://github.com/dhairyamishra)
+
+---
+
+### Repository Notes
+
+This repository powers the public GitHub profile README for
+`github.com/dhairyamishra`. The profile banner assets live in `assets/` and are
+referenced through raw GitHub URLs so they render correctly from the profile
+page.
+
+Maintenance checklist:
+
+- Keep project links aligned with the portfolio repository
+  (`dhairyamishra.github.io`).
+- Update role, education, and availability language when profile details change.
+- Verify banner SVGs in both light and dark GitHub themes after editing
+  `assets/banner-light.svg` or `assets/banner-dark.svg`.
