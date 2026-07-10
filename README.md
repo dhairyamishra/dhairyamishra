@@ -3,83 +3,72 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/master/assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/master/assets/banner-light.svg">
-  <img alt="Dhairya Mishra - AI Engineer & Full-Stack Developer" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/master/assets/banner-light.svg" width="100%">
+  <img alt="Dhairya Mishra - AI Engineer and Full-Stack Developer" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/master/assets/banner-light.svg" width="100%">
 </picture>
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=githubpages&logoColor=white)](https://dhairyamishra.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-mishra/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhairyamishra)
 
 </div>
 
----
+## I build AI people can use.
 
-### About
+I turn research and complex data into reliable products - from AI agents and medical imaging to interactive climate-risk maps.
 
-I build production ML systems, AI research prototypes, and cloud-native applications that move from experiments to usable software.
+**M.S. Computer Science (AI), NYU Courant** · **3+ years shipping production systems at CVS Health and Aetna**
 
-Currently pursuing an MSCS in AI at NYU Courant and working as an AI Engineer Intern at Evidenza, with 4+ years of experience across AI agents, computer vision, NLP, full-stack services, and reliability-focused infrastructure.
+## Featured work
 
----
+### [Slovenia LiDAR Flood Map](https://dhairyamishra.github.io/slovenia-lidar-floodmap/) · [Code](https://github.com/dhairyamishra/slovenia-lidar-floodmap)
 
-### Selected Highlights
+Turns roughly 15 GB of national airborne LiDAR data into an interactive map of flood susceptibility, forest health, and land cover across an 81-tile area around Ljubljana.
 
-- **AI research:** Developing Solaris at NYU VisionX, a NeurIPS 2026 under-review multiplayer video world model trained on 12.64M action-annotated Minecraft frames.
-- **Applied computer vision:** Built multimodal MRI brain tumor classification and segmentation models with 91.3% accuracy and 97.1% sensitivity on BraTS.
-- **AI agents:** Solo-built Teserax, a production TypeScript SaaS research agent with tool calling, RAG over live web sources, async orchestration, and failure recovery.
-- **Production NLP:** Shipped a cloud-native content moderation API on GCP using fine-tuned DistilBERT, TF-IDF baselines, FastAPI, Docker, and pytest.
-- **Accessibility tooling:** Contributed to Testaro at CVS Health, a web accessibility testing tool presented at the 25th ACM SIGACCESS ASSETS conference.
+`Python` `LiDAR` `NumPy` `SciPy` `Geospatial analysis` `GitHub Pages`
 
----
+### [Teserax](https://teserax.vercel.app/)
 
-### Featured Work
+A production research agent that makes its reasoning visible as an interactive graph and turns plain-language instructions into executable workflows.
 
-| Project | Why it matters | Stack / Proof |
-|---------|----------------|---------------|
-| [**Solaris**](https://arxiv.org/abs/2602.22208) | Diffusion-based multiplayer video world model that generates playable Minecraft environments from visual frame prediction without a game engine dependency. | DiT, JAX, flow matching, self-forcing, multi-agent attention, 12.64M frames, NeurIPS 2026 under review |
-| [**Teserax**](https://teserax.vercel.app/) | Production SaaS research agent with multi-step orchestration, typed API contracts, live-source RAG, retries, and graceful degradation. | TypeScript, React, FastAPI, Zod, tool calling, async agents, RAG, EC2, Cloudflare |
-| [**MRI Brain Tumor Detection**](https://github.com/dhairyamishra/MRI-CV-MODEL-TRAINING-AND-INFERENCE-PROJECT) | Single-pass MRI model for tumor classification and segmentation across multimodal MRI scans. | PyTorch, EfficientNet, U-Net, FastAPI, BraTS, 91.3% accuracy, 97.1% sensitivity |
-| [**Cloud NLP Content Moderation API**](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP) | Unified inference API serving fine-tuned DistilBERT and lightweight TF-IDF baselines for hate-speech classification. | PyTorch, DistilBERT, FastAPI, Docker, GCP, pytest, 96.57% accuracy |
-| [**NYU PICO-LLM**](https://github.com/dhairyamishra/NYU-PICO-LLM) | Modular LLM training pipeline for comparing K-Gram MLP, LSTM, and KV-cache Transformer architectures. | PyTorch, Transformers, language modeling, training pipelines |
-| [**Testaro**](https://arxiv.org/abs/2309.10167) | Ensemble web accessibility testing research presented at ACM SIGACCESS ASSETS 2023. | Node.js, Playwright, axe-core, WCAG/ADA, CVS Health |
+`TypeScript` `React` `FastAPI` `Agent orchestration` `RAG` `Cloudflare`
 
----
+### [Solaris](https://arxiv.org/abs/2602.22208)
 
-### Technical Focus
+A multiplayer video world model that learns to generate playable Minecraft environments from video alone, without relying on the game engine. Co-authored at NYU VisionX; under review at NeurIPS 2026.
 
-**ML Systems:** PyTorch, JAX, Hugging Face, LangChain, OpenCV, Pandas, model training, inference services, fine-tuning
+`JAX` `Diffusion Transformer` `Flow matching` `12.64M training frames`
 
-**AI Research:** AI agents, computer vision, NLP, video world models, multimodal learning, RAG, diffusion models, VLMs
+### [MRI Brain Tumor Detection](https://github.com/dhairyamishra/MRI-CV-MODEL-TRAINING-AND-INFERENCE-PROJECT)
 
-**Cloud & Backend:** Python, TypeScript, SQL, FastAPI, Node.js, Docker, Kubernetes, GCP, AWS, Terraform, MongoDB
+A single model that identifies and outlines brain tumors in MRI scans, reaching **91.3% accuracy** and **97.1% sensitivity** on BraTS data.
 
-**Frontend & Tooling:** React, Pydantic, Zod, Playwright, pytest, GitHub Actions, ArgoCD, OpenTelemetry, Grafana
+`PyTorch` `EfficientNet` `U-Net` `FastAPI` `Computer vision`
 
----
+## A few outcomes
 
-### Contact
+| Impact | What changed |
+|---|---|
+| **14% engagement lift** | Built a multimodal AI evaluation pipeline that improved ad recommendations. |
+| **18% more accessible content** | Built a closed-loop system that generated and quality-checked product image descriptions. |
+| **20% faster ticket resolution** | Built a RAG assistant over internal documentation and support history. |
 
-I am open to AI engineering, ML systems, applied research, and full-stack AI product opportunities.
+## More work
 
-- Portfolio: [dhairyamishra.github.io](https://dhairyamishra.github.io/)
-- LinkedIn: [linkedin.com/in/dhairya-mishra](https://www.linkedin.com/in/dhairya-mishra/)
-- GitHub: [github.com/dhairyamishra](https://github.com/dhairyamishra)
+- [Cloud NLP Content Moderation API](https://github.com/dhairyamishra/CLOUD-NLP-CLASSIFIER-GCP) - production-style text classification on GCP.
+- [Testaro](https://arxiv.org/abs/2309.10167) - web accessibility research presented at ACM SIGACCESS ASSETS 2023.
+- [NYU PICO-LLM](https://github.com/dhairyamishra/NYU-PICO-LLM) - language models built from MLPs through Transformer decoders.
 
----
+## Toolkit
 
-### Repository Notes
+**AI/ML:** PyTorch, JAX, Hugging Face, computer vision, NLP, RAG, agent orchestration<br>
+**Product:** Python, TypeScript, React, FastAPI, Node.js, SQL<br>
+**Cloud:** GCP, AWS, Docker, Kubernetes, Terraform, GitHub Actions
 
-This repository powers the public GitHub profile README for
-`github.com/dhairyamishra`. The profile banner assets live in `assets/` and are
-referenced through raw GitHub URLs so they render correctly from the profile
-page.
+## A little GitHub fun
 
-Maintenance checklist:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving through Dhairya's GitHub contribution graph" src="https://raw.githubusercontent.com/dhairyamishra/dhairyamishra/output/github-contribution-grid-snake.svg">
+</picture>
 
-- Keep project links aligned with the portfolio repository
-  (`dhairyamishra.github.io`).
-- Update role, education, and availability language when profile details change.
-- Verify banner SVGs in both light and dark GitHub themes after editing
-  `assets/banner-light.svg` or `assets/banner-dark.svg`.
+I am open to AI engineering, ML systems, and applied research opportunities. [See my portfolio](https://dhairyamishra.github.io/) or [connect on LinkedIn](https://www.linkedin.com/in/dhairya-mishra/).
